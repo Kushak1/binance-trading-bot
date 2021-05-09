@@ -20,12 +20,7 @@ Python crypto-trading bot based on [unofficial binance python library](https://g
 
 
     	python main.py
-- ## Requirements
-	#talib is optional is you use different strategy
-
-	pip install python-binance
-	pip install talib
-
+	
 ## Requirements
 	#talib is optional is you use different strategy
 
