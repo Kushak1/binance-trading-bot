@@ -16,6 +16,15 @@ Python crypto-trading bot based on [unofficial binance python library](https://g
 - [Generate an API Key](https://www.binance.com/en/my/settings/api-management "Generate an API Key") and assign relevant permissions.
 - Get an API and Secret Key, insert into config.py
 - [Enable margin trading](https://www.binance.com/en/my/wallet/account/margin "Enable margin trading")
+- Start main.py
+
+
+    	python main.py
+- ## Requirements
+	#talib is optional is you use different strategy
+
+	pip install python-binance
+	pip install talib
 
 ## Requirements
 	#talib is optional is you use different strategy
