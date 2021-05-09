@@ -29,6 +29,6 @@ Python crypto-trading bot based on [unofficial binance python library](https://g
 
 ## Sidenotes
 
--Yotube video with more explanation: XXX
--[Talib python library](https://github.com/mrjbq7/ta-lib "Talib python library") 
--[Binance python library wraper documentaion](https://python-binance.readthedocs.io/en/latest/ "Binance python library wraper documentaion")
+- Yotube video with more explanation: XXX
+- [Talib python library](https://github.com/mrjbq7/ta-lib "Talib python library") 
+- [Binance python library wraper documentaion](https://python-binance.readthedocs.io/en/latest/ "Binance python library wraper documentaion")
