@@ -26,9 +26,8 @@ Python crypto-trading bot based on [unofficial binance python library](https://g
 
 	pip install python-binance
 	pip install talib
-	
 
-#Sidenotes
+##Sidenotes
 
 Yotube video with more explanation: XXX
 [Talib python library](https://github.com/mrjbq7/ta-lib "Talib python library") 
