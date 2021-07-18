@@ -35,7 +35,7 @@ class Main:
             last_RSI = talib.RSI(numpy.asarray(prices), 14)[-1]
             if last_RSI > 75:
 
-                self.order_to_track = self.trading.buy(prices[len(prices)-1])
+                self.order_to_track = self.trading.sell(prices[len(prices)-1])
                 self.track_trade()
 
             elif last_RSI < 25:
